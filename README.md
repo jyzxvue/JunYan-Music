@@ -1,2 +1,2 @@
-# jymusic
+# JunYanMusicPlayer
 JunYan · Music
